@@ -1,0 +1,32 @@
+.Pfad-1707 {
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    width: 335px;
+    height: 142px;
+    margin: 50px 79px 126px 100px;
+    padding: 22px 61px 24px 24px;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    border-radius: 10px;
+  }
+.header{
+    font-weight: bold;
+}
+.btn{
+    border-radius: 10px;
+    width: 90px;
+    height: 36px;
+    margin: 30px 4px 20px 4px;
+    font-weight: bold;
+    border: 1px solid;
+
+}
+
+.cancel{
+    background-color: white;
+}
+.cancel:hover{
+    background-color: black;;
+    color: white;
+}

@@ -1,0 +1,18 @@
+<div class="wrapper">
+  <h2>Overview</h2>
+  <hr />
+
+  <button class="Commissioning-btn" (click)="onHandleModal()" >
+    <div class="content-left">
+      <img class="equalizer" src="../../../../assets/Equalizer@2x.png" alt="Equalizer.png" />
+
+      <p>Commissioning</p>
+    </div>
+
+    <img class="Pdaf-1907" src="../../../../assets/Pfad 1907@2x.png" alt="" />
+  </button>
+</div>
+
+<commissioning  *ngIf="showModal" (close)="onHandleModal()" ></commissioning>
+
+

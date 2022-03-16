@@ -1,0 +1,40 @@
+.wrapper{
+   margin: 0 auto;
+    width: 90%;
+    margin-top: 46px;
+}
+
+
+
+.wrapper h2{
+    font-size: 24px;
+    font-weight: bold; 
+}
+
+.Commissioning-btn{
+    display: flex;
+    justify-content : space-between;
+    width: 350px;
+    background-color: #ff6600;
+    align-items: center;
+    padding: 15px;
+    border-radius: 10px;
+    border : none;
+    cursor:pointer;
+
+}
+.Commissioning-btn p{
+    font-size:15px;
+}
+.Pdaf-1907 {
+    width:10px
+}
+.equalizer{
+    width:20px;
+    margin-right: 10px;
+}
+
+.content-left{
+    display : flex;
+    align-items: center;
+}

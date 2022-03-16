@@ -1,0 +1,44 @@
+.Pfad-1701{
+    width: 335px;
+    height: 383px;
+    margin: 40px 100px 150px 38px;
+    padding: 24px 24px 98.1px;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.1);
+    border: solid 2px #a40606;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header{
+    color:#a40606;
+    font-weight: bold;
+}
+.content-header{
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.btn{
+    background-color: white;
+    border: none;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.btn img{
+    width: 36px;
+    height: 36px;
+    
+}
+
+.content{
+    margin: 20px 0 20px;
+    
+}

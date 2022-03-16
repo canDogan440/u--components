@@ -1,0 +1,17 @@
+.Pfad-14 {
+
+    display:flex;
+    margin: 0 12px 0 0;
+    padding: 10px;
+    border: solid 1px #000;
+    border-radius: 50%;
+
+    width: 18px;
+    height: 18px;
+    justify-content: center;
+  }
+
+
+  .Pfad-14:hover{
+    background: #f60;
+  }
